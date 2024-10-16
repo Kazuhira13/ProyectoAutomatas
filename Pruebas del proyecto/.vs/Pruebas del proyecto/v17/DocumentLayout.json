@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\proyectoautomatas\\pruebas del proyecto\\pruebas del proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|solutionrelative:pruebas del proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\pruebas del proyecto\\chatboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|solutionrelative:pruebas del proyecto\\chatboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\pruebas del proyecto\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|solutionrelative:pruebas del proyecto\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\pruebas del proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|solutionrelative:pruebas del proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\pruebas del proyecto\\chatboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F97DE8-4EBE-4E56-83EB-63CB914B3C1D}|Pruebas del proyecto\\Pruebas del proyecto.csproj|solutionrelative:pruebas del proyecto\\chatboxform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatBoxForm.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\ChatBoxForm.cs",
+              "RelativeDocumentMoniker": "Pruebas del proyecto\\ChatBoxForm.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\ChatBoxForm.cs",
+              "RelativeToolTip": "Pruebas del proyecto\\ChatBoxForm.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwG4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:18:29.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatBoxForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\ChatBoxForm.cs",
+              "RelativeDocumentMoniker": "Pruebas del proyecto\\ChatBoxForm.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Pruebas del proyecto\\Pruebas del proyecto\\ChatBoxForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Pruebas del proyecto\\Pruebas del proyecto\\ChatBoxForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:17:49.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\Paquete.cs",
+              "RelativeDocumentMoniker": "Pruebas del proyecto\\Paquete.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\Paquete.cs",
+              "RelativeToolTip": "Pruebas del proyecto\\Paquete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:53:16.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Pruebas del proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\Form1.cs",
+              "RelativeToolTip": "Pruebas del proyecto\\Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAtwFgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:43:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Pruebas del proyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\ProyectoAutomatas\\Pruebas del proyecto\\Pruebas del proyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pruebas del proyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:43:41.494Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
