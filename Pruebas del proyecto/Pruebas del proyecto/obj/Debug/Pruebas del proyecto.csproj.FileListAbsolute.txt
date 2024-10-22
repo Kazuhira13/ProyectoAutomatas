@@ -9,3 +9,16 @@ C:\Users\tgpp1\OneDrive\Escritorio\Pruebas del proyecto\Pruebas del proyecto\bin
 C:\Users\tgpp1\OneDrive\Escritorio\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.exe
 C:\Users\tgpp1\OneDrive\Escritorio\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.pdb
 C:\Users\tgpp1\OneDrive\Escritorio\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas_del_proyecto.ChatBoxForm.resources
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\bin\Debug\Pruebas del proyecto.exe.config
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\bin\Debug\Pruebas del proyecto.exe
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\bin\Debug\Pruebas del proyecto.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.csproj.AssemblyReference.cache
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas_del_proyecto.ChatBoxForm.resources
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas_del_proyecto.Form1.resources
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas_del_proyecto.Properties.Resources.resources
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.csproj.GenerateResource.cache
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.exe
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas del proyecto.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas_del_proyecto.AdminForm.resources
+C:\Users\tgpp1\OneDrive\Escritorio\ProyectoAutomatas\Pruebas del proyecto\Pruebas del proyecto\obj\Debug\Pruebas_del_proyecto.LoginForm.resources

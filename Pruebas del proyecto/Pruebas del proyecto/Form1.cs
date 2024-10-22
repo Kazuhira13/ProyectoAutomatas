@@ -14,8 +14,8 @@ namespace Pruebas_del_proyecto
     {
         List<string> contenidosProhibidos = new List<string>
             {
-                "explosivos", "gases comprimidos", "líquidos inflamables", "sustancias tóxicas",
-                "vidrio", "drogas", "armas", "animales vivos","sustancia corrosiva", "sustancia química peligrosa"
+                "explosivo", "gases comprimidos", "acido","baterias","cianuro", "veneno","ratisida","Mariguana","9mm","balas","polvora",
+                "vidrio","Cristales","Botellas de vidrio", "fentanilo", "armas", "animales vivos","Gatos","Perros","Hamster","pajaros","sustancia corrosiva", "sustancia química peligrosa"
             };
 
 
@@ -87,6 +87,20 @@ namespace Pruebas_del_proyecto
         {
             ChatBoxForm chatBox = new ChatBoxForm();
             chatBox.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.ShowDialog();
+        }
+
+        public void BorrarPedidoEnPrincipal(int index)
+        {
+            if (index >= 0 && index < dataGridView1.Rows.Count)
+            {
+                dataGridView1.Rows.RemoveAt(index);
+            }
         }
     }
 }
